@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Título do Site</title>
+</head>
+<body>
+   <main>
+       <header>
+           <h1>Cursos Grátis</h1>
+       </header>
+       <article>
+           <h2>Artigo Git</h2>
+           <p>fdhskhflsghksfhgliusdfyhgfgfjkghfj</p>
+       </article>
+       <article>
+           <h2>Artigo Hub</h2>
+           <p>gsnfjlghjfdhglfkdsghufygfhgjlfhgkjdfg</p>
+       </article>
+   </main> 
+</body>
+</html>
