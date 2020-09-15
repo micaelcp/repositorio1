@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Exemplo4 - Paragráfos</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="">
+    </head>
+    <body>
+        <p>Este é um paragráfo</p>
+        <br>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis sunt dolores non natus omnis mollitia totam maxime ut aperiam consequuntur, culpa et tempore blanditiis perspiciatis tenetur consectetur enim nulla molestiae.</p>
+        <br>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat, ducimus? Quam, sunt est qui nihil autem fuga quod perferendis rerum repellendus porro veniam! Consectetur similique quam unde, reprehenderit ducimus in.</p>
+        <hr>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Error repellat reprehenderit deserunt doloribus quisquam nulla, neque corrupti omnis. Porro odio aperiam quia harum ducimus sint cupiditate. Nostrum ut earum ab.</p>
+        
+        <script src="" async defer></script>
+    </body>
+</html>
